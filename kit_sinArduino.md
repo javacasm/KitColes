@@ -21,7 +21,7 @@ Son componentes de 3 pines que se conectan directamente a una placa arduino con 
 |Módulo bluetooth|1
 |LCD 16x2 I2C| 1
 |Power bank 4000|1
-|Módulo pulsador (a ser posible con botón grande)|3
+|Módulo pulsador (botón grande)|3
 |Potenciómetro circular 10k|2
 |Módulo Leds de colores|3
 |Módulo DS18B20 estanco|1
