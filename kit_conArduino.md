@@ -13,7 +13,6 @@ Son componentes de 3 pines que se conectan directamente a una placa arduino con 
 |---|---
 |Arduino uno con conectores 3 pines|1
 |Cable USB|1
-
 |Servomotor Rotación continua|2
 |Servomotor Sg90|2
 |Módulo sensor de luz LDR|2
