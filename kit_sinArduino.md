@@ -12,8 +12,6 @@ Son componentes de 3 pines que se conectan directamente a una placa arduino con 
 |Componente|cantidad
 |---|---
 |Shield Sensor v5|1
-
-
 |Servomotor Rotación continua|2
 |Servomotor Sg90|2
 |Módulo sensor de luz LDR|2
