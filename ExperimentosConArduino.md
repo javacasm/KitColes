@@ -28,3 +28,6 @@
 
 # Psicología
 * Tiempo de respuesta
+
+# Leds
+* Estroboscopio
