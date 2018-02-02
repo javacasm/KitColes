@@ -31,6 +31,8 @@ Son componentes de 3 pines que se conectan directamente a una placa arduino con 
 |ACelerometro|1
 |Brújula|1
 |Sensores de gas|1
+|Sensor de corriente intrusivo
+|Sensor de corriente no intrusivo
 |**Motores y potencia**||
 |Servomotor Rotación continua|2
 |Servomotor Sg90|2
