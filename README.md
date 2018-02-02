@@ -4,4 +4,4 @@
 
 ## [Kit similares](./kit_similares.md)
 
-## [Experimentos con Arduino](./ExperimentosConArduino.md)
+## [Experimentos para hacer con Arduino](./ExperimentosConArduino.md)
