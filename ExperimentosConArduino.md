@@ -27,7 +27,7 @@
 * Composición espectral de la luz
 
 # Psicología
-* Tiempo de respuesta
+* Tiempo de respuesta a luces y sonidos
 
 # Leds
 * Estroboscopio
