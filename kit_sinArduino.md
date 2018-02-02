@@ -11,8 +11,9 @@ Son componentes de 3 pines que se conectan directamente a una placa arduino con 
 
 |Componente|cantidad
 |---|---
+|Arduino UNO con conectores 3 pines (tipo funduino)|1
 |**Sensores**||
-|Shield Sensor v5|1
+|Shield Sensor v5 (no necesario si la placa tienes 3 formato pines)|1
 |Potenciómetro circular 10k|2
 |Módulo sensor de luz LDR|2
 |Módulo sensor siguelíneas|3
